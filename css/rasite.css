@@ -19,6 +19,6 @@ table, th, td {
 }
 
 .footer-black {
-    height: 50px;
-    background-color: black;
+    background-color: #222;
+    border-color: #080808;
 }
