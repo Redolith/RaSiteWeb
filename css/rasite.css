@@ -17,3 +17,8 @@ table, th, td {
     margin-top: 10px;
     margin-bottom: 20px;
 }
+
+.footer-black {
+    height: 50px;
+    background-color: black;
+}
