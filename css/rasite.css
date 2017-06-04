@@ -23,6 +23,10 @@ table, th, td {
     float: none;
 }
 
+.silver-color {
+    color: #f0f0f0;
+}
+
 .footer {
     background-color: #222;
     color: #f0f0f0;
