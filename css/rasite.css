@@ -24,12 +24,12 @@ table, th, td {
 }
 
 .silver-color {
-    color: #f0f0f0;
+    color: #808080;
 }
 
 .footer {
     background-color: #222;
-    color: #f0f0f0;
+    color: #808080;
     width: 100%;
     min-height: 120px;
 }
