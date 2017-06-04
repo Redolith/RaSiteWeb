@@ -18,13 +18,16 @@ table, th, td {
     margin-bottom: 20px;
 }
 
-.footer-black {
-    background-color: #222222;
-    border-color: #080808;
-    height: 60px;
-}
-
 .center-col {
     margin: 0 auto;
     float: none;
+}
+
+.footer {
+    /* position: absolute;
+    bottom: 0; */
+    width: 100%;
+    /* Фиксированная высота футера */
+    height: 120px;
+    background-color: #222;
 }
