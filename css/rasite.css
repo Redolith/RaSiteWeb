@@ -32,6 +32,10 @@ table, th, td {
     color: #808080;
 }
 
+.black-back {
+    background-color: #222;
+}
+
 .footer {
     background-color: #222;
     color: #808080;
