@@ -1,6 +1,12 @@
 body {
     padding-top: 50px;
     font-family: 'Noto Sans';
+    margin-bottom: 120px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
 }
 
 img {
@@ -28,8 +34,13 @@ table, th, td {
 }
 
 .footer {
+    position: absolute;
     background-color: #222;
     color: #808080;
+    bottom: 0;
     width: 100%;
-    min-height: 120px;
+    height: 120px;
+    position: relative;
+    clear: both;
+    padding-top: 20px;
 }
