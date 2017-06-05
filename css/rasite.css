@@ -34,7 +34,6 @@ table, th, td {
 }
 
 .footer {
-    position: absolute;
     background-color: #222;
     color: #808080;
     bottom: 0;
