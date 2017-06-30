@@ -46,3 +46,7 @@ table, th, td {
     clear: both;
     padding-top: 20px;
 }
+
+code {
+    color: inherit;
+}
